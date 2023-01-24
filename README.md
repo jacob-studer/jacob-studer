@@ -1,5 +1,4 @@
-### Hi there, Im Jacob. I am a graduate of the Denver University Full Stack Coding Bootcamp and am currently an Application Analyst working to push my abilities with web apps and further my career in the field of IT! My current competencies include Javascript, HTML, CSS, Express, Node, and data manipulation with T-SQL through SSMS.
-
+### Hi there, Im Jacob. I am a graduate of the Denver University Full Stack Coding Bootcamp and am currently an Application Support Analyst working to push my abilities with Microsoft SQL, database concepts, and web based apps to further my career in the field of IT! My current competencies include T-SQL through SSMS, Database Concepts, Javascript, HTML, CSS, and other Web frameworks.
 
 
 <!--
