@@ -1,4 +1,4 @@
-### Hi there, Im Jacob. I am a graduate of the Denver University Full Stack Coding Bootcamp and am currently an Application Support Analyst working to push my abilities with Microsoft SQL, database concepts, and web based apps to further my career in the field of IT! My current competencies include T-SQL through Microsoft SSMS, Database Concepts, Javascript, HTML, CSS, and other Web frameworks.
+### Hello, Im Jake. I am a Software Test Engineer and graduate of the Denver University Full Stack Coding Bootcamp. My current competencies include Software Testing, Agile Development and Testing, Postman, SQL and Database concepts, Javascript, HTML, CSS, and other Web frameworks. Please reference the pinned repositories below to see some examples of my current knowledge in these technologies.
 
 
 <!--
