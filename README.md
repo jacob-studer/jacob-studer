@@ -1,6 +1,6 @@
 ### Hello, Im Jake. I am a Software Test Engineer and graduate of the Denver University Full Stack Coding Bootcamp. My current competencies include Software Testing, Agile Development and Testing, Postman, SQL and Database concepts, Javascript, HTML, CSS, and other Web frameworks. Please reference the pinned repositories below to see some examples of my current knowledge in these technologies.
 
-Or go to my Personal Portfolio at https://jacob-studer.github.io/Jacob-Studer-Portfolio/
+### Or go to my Personal Portfolio at https://jacob-studer.github.io/Jacob-Studer-Portfolio/
 
 
 <!--
